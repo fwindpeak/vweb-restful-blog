@@ -1,6 +1,7 @@
 # Binaries for programs and plugins
 main
 server
+blog
 *.exe
 *.exe~
 *.so
